@@ -21,8 +21,8 @@ df2.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
 df3 = pd.read_csv('********/Airbnb_Aus_Bris_DataProject/Airbnb Data/reviews.csv', low_memory=False)
 df3.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
 
-df4 = pd.read_json('*******/Airbnb_Aus_Bris_DataProject/Airbnb Data/neighbourhoods.geojson', low_memory=False)
-df4.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
+# df4 = pd.read_json('*******/Airbnb_Aus_Bris_DataProject/Airbnb Data/neighbourhoods.geojson', low_memory=False)
+# df4.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
 
 
 print("Tables created and data imported successfully!")
