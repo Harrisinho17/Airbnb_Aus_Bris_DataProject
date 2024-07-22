@@ -6,4 +6,4 @@ FROM "public"."listings"
 WHERE bedrooms >= 2
   AND availability_90 >= 1
   AND bathrooms IS NOT NULL
-ORDER BY host_name, price DESC
+ORDER BY host_id, price DESC
