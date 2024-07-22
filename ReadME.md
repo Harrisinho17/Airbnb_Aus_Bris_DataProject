@@ -21,6 +21,10 @@ Moreover, the repository includes advanced SQL operations such as searching for 
   - `CsvToTable.py`
 - **Data Files**: Includes CSV files with Airbnb listings data.
   - `listings.csv`
+  - `neighbourhoods.csv`
+  - `neighbourhoods.geojson`
+  - `reviews.csv`
+
 
 ## Ackonwledgements 
 
