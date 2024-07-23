@@ -15,8 +15,8 @@ engine = create_engine(f'postgresql://{db_username}:{db_password}@{db_host}:{db_
 df1 = pd.read_csv('******/Airbnb_Aus_Bris_DataProject/Airbnb Data/listings.csv', low_memory=False)
 df1.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
 
-df2 = pd.read_csv('******/Airbnb_Aus_Bris_DataProject/Airbnb Data/neighbourhoods.csv', low_memory=False)
-df2.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
+# df2 = pd.read_csv('******/Airbnb_Aus_Bris_DataProject/Airbnb Data/neighbourhoods.csv', low_memory=False)
+# df2.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
 
 df3 = pd.read_csv('********/Airbnb_Aus_Bris_DataProject/Airbnb Data/reviews.csv', low_memory=False)
 df3.to_sql('AirBNB.Aus.Bris', engine, if_exists='replace', index=False)
