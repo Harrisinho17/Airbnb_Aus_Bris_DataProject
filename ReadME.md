@@ -56,8 +56,7 @@ This project not only serves as a practical application of data analysis skills 
 ## Project Structure
 
 - **SQL Scripts**: Contains SQL queries for data exploration.
-  - `Alter_Table_Price.SQL`
-  - `ListingsWith_BedBath_in_90.SQL`
+ 
 
 - **Python Script**: Script for data processing.
   - `CsvToTable.py`
