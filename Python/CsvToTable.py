@@ -26,4 +26,7 @@ df3.to_sql('reviews', engine, if_exists='replace', index=False)
 df4 = pd.read_csv('/Users/aharris/Documents/GitHub/Airbnb_Aus_Bris_DataProject/Airbnb Data/calendar.csv', low_memory=False)
 df4.to_sql('calendar', engine, if_exists='replace', index=False)
 
+df4 = pd.read_csv('/Users/aharris/Documents/GitHub/Airbnb_Aus_Bris_DataProject/Airbnb Data/ID_Date.reviews.csv', low_memory=False)
+df4.to_sql('ID_Date.Reviews', engine, if_exists='replace', index=False)
+
 print("Tables created and data imported successfully!")
