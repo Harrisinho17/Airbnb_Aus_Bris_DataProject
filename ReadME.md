@@ -50,21 +50,39 @@ This project not only serves as a practical application of data analysis skills 
 ## Features
 
 - **SQL Techniques**: Aggregations, window functions, joins, subqueries, and data type conversions.
+- **Sentiment Analysis**: Evaluation of customer comments to derive sentiment scores, providing numerical insights into customer satisfaction and feedback trends.
 - **Data Analysis**: Insights into average prices, listings by city, price rankings, and listings above average prices.
 - **Advanced SQL Operations**: Keyword search in listings, filtering based on amenities, and calculating monthly availability.
 
 ## Project Structure
 
-- **SQL Scripts**: Contains SQL queries for data exploration.
- 
-
-- **Python Script**: Script for data processing.
-  - `CsvToTable.py`
-- **Data Files**: Includes CSV files with Airbnb listings data.
-  - `listings.csv`
+- **Airbnb Data**: Includes initial CSV files with Airbnb listings data.
+   - `listings.csv`
   - `neighbourhoods.csv`
   - `neighbourhoods.geojson`
   - `reviews.csv`
+  - `ID_Date.reviews.csv`
+  
+- **Data Queries**: SQL Scripts for data analysis & insights.
+  - `CsvToTable.py`
+  - `ConvertSentiment.py`
+
+- **Python**: Python Scripts for data processing.
+  - `CsvToTable.py`
+  - `ConvertSentiment.py`
+
+- **Query Results**: Resulting CSV from the Data Queries to be used in Tableau to create a dashboard. 
+ - ``
+ - ``
+ - ``
+ - ``
+
+
+- **Tableau Dashboard**: 
+  - ``
+  
+  
+
 
 ## Conclusion
 The insights derived from this analysis will provide valuable information to Airbnb hosts and stakeholders, enabling them to make data-driven decisions to optimize their listings, improve customer satisfaction, and increase profitability.
