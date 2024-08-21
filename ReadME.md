@@ -56,12 +56,22 @@ This project not only serves as a practical application of data analysis skills 
 
 ## Project Structure
 
-- **Airbnb Data**: Includes initial CSV files with Airbnb listings data.
-   - `listings.csv`
+- **Airbnb Data**: Includes CSV files with Airbnb listings data.
+  - **Initial Data**
+  - `listings.csv`
   - `neighbourhoods.csv`
   - `neighbourhoods.geojson`
   - `reviews.csv`
+  
+  - **Cleaned Data**
   - `ID_Date.reviews.csv`
+  - `comments_with_ratings`
+  - `Pre_Cleaning.calendar.csv` 
+  - `Pre_Cleaning.ID_Date.Reviews.csv` 
+  - `Pre_Cleaning.listings.csv` 
+  - `Pre_Cleaning.neighbourhoods.csv` 
+  - `Pre_Cleaning.review_sentiment.csv` 
+  - `Pre_Cleaning.reviews.csv`
   
 - **Data Queries**: SQL Scripts for data analysis & insights.
   - `CsvToTable.py`
