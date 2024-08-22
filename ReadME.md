@@ -64,6 +64,8 @@ This project not only serves as a practical application of data analysis skills 
   - `neighbourhoods.csv`
   - `neighbourhoods.geojson`
   - `reviews.csv`
+  - `ID_Date.reviews.csv`
+  - `comments_with_ratings`
 
   - **Pre-Cleaned Data**
  
@@ -76,8 +78,7 @@ This project not only serves as a practical application of data analysis skills 
 
   - **Cleaned Data**
 
-  - `ID_Date.reviews.csv`
-  - `comments_with_ratings`
+  
 
   
 - **Data Queries**: SQL Scripts for data analysis & insights.
