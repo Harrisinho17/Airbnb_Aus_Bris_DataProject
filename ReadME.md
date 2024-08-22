@@ -78,6 +78,12 @@ This project not only serves as a practical application of data analysis skills 
 
   - **Cleaned Data**
 
+  - `Post_Cleaning.calendar.csv`
+  - `Post_Cleaning.ID_Date.Reviews.csv` 
+  - `Post_Cleaning.listings.csv` 
+  - `Post_Cleaning.neighbourhoods.csv` 
+  - `Post_Cleaning.review_sentiment.csv` 
+  - `Post_Cleaning.reviews.csv`
   
 
   
