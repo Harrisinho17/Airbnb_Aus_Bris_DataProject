@@ -84,21 +84,21 @@ This project not only serves as a practical application of data analysis skills 
   - `Post_Cleaning.review_sentiment.csv` 
   - `Post_Cleaning.reviews.csv`
   
-
   
 - **Data Queries**: SQL Scripts for data analysis & insights.
-  - `CsvToTable.py`
-  - `ConvertSentiment.py`
+  - `ADR_neighbourhood.SQL`
+  - ``
+
+
+- **Query Results**: Resulting CSV from the Data Queries to be used in Tableau to create a dashboard. 
+ - `ADR_neighbourhood.csv`
+ - ``
+ - ``
+ - ``
 
 - **Python**: Python Scripts for data processing.
   - `CsvToTable.py`
   - `ConvertSentiment.py`
-
-- **Query Results**: Resulting CSV from the Data Queries to be used in Tableau to create a dashboard. 
- - ``
- - ``
- - ``
- - ``
 
 
 - **Tableau Dashboard**: 
