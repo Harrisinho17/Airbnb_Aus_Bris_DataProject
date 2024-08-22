@@ -25,6 +25,6 @@ def sentiment_to_stars(comment):
 df['Star Rating'] = df['comments'].apply(sentiment_to_stars)
 
 
-df.to_csv('/Users/aharris/Documents/GitHub/Airbnb_Aus_Bris_DataProject/Airbnb Data/comments_with_ratings.csv', index=False)
+df.to_csv('/Users/aharris/Documents/GitHub/Airbnb_Aus_Bris_DataProject/Airbnb Data/Pre_Cleaning.review_sentiment.csv', index=False)
 
 print("CSV Created Successfully")
