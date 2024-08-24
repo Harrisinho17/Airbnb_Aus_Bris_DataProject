@@ -91,10 +91,10 @@ This project not only serves as a practical application of data analysis skills 
 
 
 - **Query Results**: Resulting CSV from the Data Queries to be used in Tableau to create a dashboard. 
- - `ADR_neighbourhood.csv`
- - ``
- - ``
- - ``
+  - `ADR_neighbourhood.csv`
+  - ``
+  - ``
+  - ``
 
 - **Python**: Python Scripts for data processing.
   - `CsvToTable.py`
