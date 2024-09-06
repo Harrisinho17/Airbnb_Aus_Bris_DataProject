@@ -16,7 +16,7 @@ This project not only serves as a practical application of data analysis skills 
 
 3. **What are the seasonal trends in booking patterns and pricing in Brisbane?**
 
-[[Market Trends and Performance](https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]
+[Market Trends and Performance Dashboard (https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]
 
 ### Host and Property Insights
 5. **What are the most common amenities offered by the top-performing listings in Brisbane?**
