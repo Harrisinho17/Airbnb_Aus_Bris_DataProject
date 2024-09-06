@@ -16,7 +16,7 @@ This project not only serves as a practical application of data analysis skills 
 
 3. **What are the seasonal trends in booking patterns and pricing in Brisbane?**
 
-4. **Which neighborhoods in Brisbane are experiencing the fastest growth in listings and why?**
+[[Market Trends and Performance](https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]
 
 ### Host and Property Insights
 5. **What are the most common amenities offered by the top-performing listings in Brisbane?**
@@ -27,6 +27,7 @@ This project not only serves as a practical application of data analysis skills 
 
 8. **How do Superhost listings perform compared to non-Superhost listings in terms of occupancy and revenue?**
 
+
 ### Revenue and Pricing Optimization
 9. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
 
@@ -34,12 +35,14 @@ This project not only serves as a practical application of data analysis skills 
 
 11. **Which listings are underpriced or overpriced based on similar properties in the same area?**
 
+
 ### Competitive Analysis
 12. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**
 
 13. **What market share do top Airbnb hosts have in Brisbane, and how does it affect competition?**
 
 14. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
+
 
 ### Customer Insights
 15. **What are the most common reasons for negative reviews, and how can hosts address them?**
