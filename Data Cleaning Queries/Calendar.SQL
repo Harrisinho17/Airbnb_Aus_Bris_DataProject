@@ -25,3 +25,16 @@ ALTER TABLE calendar
 RENAME price_int TO price;
 
 -- Update price column on calander table to remove '$' and ',' for better integration on Tableau and better analysis. 
+
+UPDATE calendar
+SET available = CAST(
+    REPLACE(
+        REPLACE(available, 't', '1'),  
+        'f', '0'                       
+    ) AS NUMERIC
+);
+
+ALTER Table calendar
+Alter COLUMN available TYPE INT USING available::INT
+
+-- Update available column to turn text values into computable binary values. 

@@ -19,13 +19,12 @@ This project not only serves as a practical application of data analysis skills 
 [[Market Trends and Performance Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]
 
 ### Host and Property Insights
-5. **What are the most common amenities offered by the top-performing listings in Brisbane?**
 
-6. **How does the number of reviews correlate with the average rating and occupancy rate of listings?**
+4. **How does the number of reviews correlate with the average rating and occupancy rate of listings?**
 
-7. **What factors most significantly impact the pricing of Airbnb listings in Brisbane?**
+5. **What factors most significantly impact the pricing of Airbnb listings in Brisbane?**
 
-8. **How do Superhost listings perform compared to non-Superhost listings in terms of occupancy and revenue?**
+6. **How do Superhost listings perform compared to non-Superhost listings in terms of occupancy and revenue?**
 
 
 ### Revenue and Pricing Optimization
