@@ -20,12 +20,13 @@ This project not only serves as a practical application of data analysis skills 
 
 ### Host and Property Insights
 
-4. **How does the number of reviews correlate with the average rating and occupancy rate of listings?**
+1. **How does the number of reviews correlate with the average rating and occupancy rate of listings?**
 
-5. **What factors most significantly impact the pricing of Airbnb listings in Brisbane?**
+2. **How have listing prices for properties in Brisbane changed over time?**
 
-6. **How do Superhost listings perform compared to non-Superhost listings in terms of occupancy and revenue?**
+3. **What effect does the type of Airbnb property have on the Average Price over time?**
 
+[[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Book1_17258373473800/Dashboard1?publish=yes)]
 
 ### Revenue and Pricing Optimization
 9. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
@@ -42,11 +43,6 @@ This project not only serves as a practical application of data analysis skills 
 
 14. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
 
-
-### Customer Insights
-15. **What are the most common reasons for negative reviews, and how can hosts address them?**
-
-16. **Which listings have the highest customer retention rates, and what factors contribute to this?**
 
 
 ## Features
