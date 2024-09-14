@@ -26,7 +26,7 @@ This project not only serves as a practical application of data analysis skills 
 
 3. **What effect does the type of Airbnb property have on the Average Price over time?**
 
-[[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/Book1_17258373473800/Dashboard1?publish=yes)]
+[[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/HostandPropertyInsightDashboard_17262409787800/Dashboard1)]
 
 ### Revenue and Pricing Optimization
 9. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
