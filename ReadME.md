@@ -29,19 +29,17 @@ This project not only serves as a practical application of data analysis skills 
 [[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/HostandPropertyInsightDashboard_17262409787800/Dashboard1)]
 
 ### Revenue and Pricing Optimization
-9. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
+1. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
 
-10. **How can dynamic pricing models be implemented to adjust prices based on demand, seasonality, and competitor pricing?**
-
-11. **Which listings are underpriced or overpriced based on similar properties in the same area?**
+2. **Which listings are underpriced or overpriced based on similar properties in the same area?**
 
 
 ### Competitive Analysis
-12. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**
+1. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**
 
-13. **What market share do top Airbnb hosts have in Brisbane, and how does it affect competition?**
+2. **What market share do top Airbnb hosts have in Brisbane, and how does it affect competition?**
 
-14. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
+3. **What are the top-performing listings in terms of revenue, and what characteristics do they share?**
 
 
 
@@ -82,25 +80,40 @@ This project not only serves as a practical application of data analysis skills 
   - `Post_Cleaning.review_sentiment.csv` 
   - `Post_Cleaning.reviews.csv`
   
+  - **Data Cleaning Queries**: SQL Scripts for data cleaning.
+  - `Calendar.SQL`
+  - `Listings.SQL`
+  - `review_sentiment.SQL`
+  - `reviews.SQL`
   
-- **Data Queries**: SQL Scripts for data analysis & insights.
-  - `ADR_neighbourhood.SQL`
-  - ``
+  - **Data Queries**: SQL Scripts for data analysis & insights.
+  - `Market Trends and Performance`
+  - `Host and Property Insights`
+  - `Revenue and Pricing Optimization`
+  - `Competitive Analysis`
 
 
 - **Query Results**: Resulting CSV from the Data Queries to be used in Tableau to create a dashboard. 
   - `ADR_neighbourhood.csv`
-  - ``
-  - ``
-  - ``
+  - `avg_occupancy_rate_by_neighbourhood.,csv`
+  - `avg_occupancy_rate_by_room_type.csv`
+  - `seasonal_trends.csv`
+  - `AVGPriceByRoomType.csv`
+  - `AVGPriceByRoomTypeDate.csv`
+  - `AVGPricePerDay.csv`
+  - `OccupanyRate.csv`
+  - `OccupancyrateScatterPlot.csv`
+  - `OccupancyReviewCorrelation.csv`
 
 - **Python**: Python Scripts for data processing.
   - `CsvToTable.py`
   - `ConvertSentiment.py`
 
 
-- **Tableau Dashboard**: 
-  - ``
+- **Tableau Dashboard**:
+  - `[[Market Trends and Performance Dashboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/BrisbaneQLDMarketTrendsPerformance/Dashboard1?publish=yes)]`
+  -`[[Host and Property Insights Deshboard](https://public.tableau.com/app/profile/alexander.harris7255/viz/HostandPropertyInsightDashboard_17262409787800/Dashboard1)]`
+  
   
   
 
