@@ -30,11 +30,8 @@ This project not only serves as a practical application of data analysis skills 
 
 ### Revenue and Pricing Optimization
 1. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
-1. **What pricing strategy can maximize revenue for different types of properties in Brisbane?**
 
 2. **Which listings are underpriced or overpriced based on similar properties in the same area?**
-2. **Which listings are underpriced or overpriced based on similar properties in the same area?**
-
 
 ### Competitive Analysis
 1. **How does the performance of Brisbane’s Airbnb market compare to other major Australian cities like Sydney or Melbourne?**

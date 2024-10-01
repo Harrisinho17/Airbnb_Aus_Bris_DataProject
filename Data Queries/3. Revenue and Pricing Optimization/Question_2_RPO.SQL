@@ -14,6 +14,8 @@ price_comparison AS (
         l.name,
         l.neighbourhood,
         l.room_type,
+		l.latitude,
+		l.longitude,
         l.price::numeric AS listing_price,
         sp.avg_price,
 
@@ -28,6 +30,8 @@ price_comparison AS (
 )
 SELECT 
     listing_id,
+	latitude,
+	longitude,
     neighbourhood,
     room_type,
     listing_price,
